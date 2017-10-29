@@ -3,10 +3,8 @@ Debug build of some JS engine
 * SpiderMonkey
 * ...and more
 # How to use
-`chmod +x js-combine.sh`
+`chmod +x SpiderMonkey-combine.sh`
 
-`./js-combine.sh`
-
-`chmod +x js`
+`./SpiderMonkey-combine.sh`
 
 `./js`
