@@ -5,7 +5,7 @@ Without compiling, you can try debug builds and disassembly functions instantly.
 * ...and more
 
 Built these on Ubuntu17.10
-# How to use
+# Usage
 `chmod +x SpiderMonkey-combine.sh`
 
 `./SpiderMonkey-combine.sh`
