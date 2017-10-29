@@ -4,4 +4,9 @@ Debug build of some JS engine
 * ...and more
 # How to use
 `chmod +x js-combine.sh`
+
 `./js-combine.sh`
+
+`chmod +x js`
+
+`./js`
